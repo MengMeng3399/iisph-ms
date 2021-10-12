@@ -3,8 +3,7 @@ iisph+ms
 
 
 ## 背景简介
-
-
+隐式不可压缩流体的模拟+显示曲面
 
 
 
@@ -25,4 +24,4 @@ iisph+ms
 
 
 
-Just: `python gen_surface.py`
+Just: `python iisph+ms.py`
